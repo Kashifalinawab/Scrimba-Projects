@@ -1,0 +1,54 @@
+.travel-div {
+  position: relative;
+  border: 5px tomato double;
+  margin-left: 10px;
+  margin-right: 5%;
+}
+
+.navBar {
+  /* position: absolute; */
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: tomato;
+  /* padding: 5px; */
+  margin-top: 10px;
+  /* margin-bottom: 15%; */
+}
+
+.data-div {
+  /* position: absolute; */
+  display: flex;
+  margin-left: 20px;
+}
+
+.img-section {
+  margin-top: 5%;
+  padding: 10px;
+  margin-right: 30px;
+}
+.travel-img {
+  height: 99%;
+}
+
+.section {
+  margin-top: 3px;
+}
+
+.travel-place {
+  margin-top: 7%;
+  margin-bottom: 1%;
+}
+.travel-title {
+  margin-bottom: 1%;
+}
+.travel-date {
+  margin-bottom: 1%;
+}
+
+.travel-view {
+  margin-bottom: 1%;
+
+  margin-right: 48%;
+  text-align: left;
+}
